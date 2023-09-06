@@ -2,7 +2,7 @@ title: "ENGL235: Writing with Robots"
 author: Ryan Cordell
 url: https://s24wwr.ryancordell.org # root address of the site
 description: > # description of the site (multiple lines allowed)  
-  ![Robotauthor, our class mascot](https://s24wwr.ryancordell.org/images/robotauthor.png)
+  <img src="/images/robotauthor.png" alt="Robotauthor, our class mascot">  
   UIUC Spring 2023  
   Theme: Writing with Robots
 
