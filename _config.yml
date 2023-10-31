@@ -1,14 +1,15 @@
 title: "Writing with Robots"
 author: Ryan Cordell
 url: https://s24wwr.ryancordell.org # root address of the site
-description: > # description of the site (multiple lines allowed)  
-  <img src="/images/robotauthor.png" width="400" alt="Robotauthor, our class mascot" style=”float: left; padding: 3px 3px 0px 3px;”>  
-  ENGL 253: Topics in Literature and New Media <br>
+description: > # description of the site (multiple lines allowed) 
+  <p>ENGL 253: Topics in Literature and New Media <br>
   UIUC Spring 2023<br>
   Theme: Writing with Robots<br>
-  <br>
-  In 2024, it can feel like Artificial Intelligence is all anyone is talking about, from the university to the news to our social media feeds. The release of ChatGPT in particular has sparked fears about how students will use or abuse AI writing tools in classes, and how professionals should apply these same tools in their work. "Writing with Robots" addresses these controversies directly, first by introducing students to the long history of humans seeking to automate—or at least simulate—intelligence and creativity. We will study historical automata and automated writing technologies, discussing how technology and writing have mutually influenced each other over centuries, and how artists and writers have by turns adopted, adapted, and resisted such technologies. We will read speculative fiction that probes the boundaries of human, non-human, and mechanical intelligence, considering how such literature might inform current debates. Finally, we will learn about and experiment with contemporary AI tools, seeking to understand their affordances and limitations and to construct a framework for productive, creative, and ethical engagements with this newest medium of automated writing. 
-
+  </p>
+  <div>
+  <p style="float: right;"><img src="/images/robotauthor.png" width="300" alt="Robotauthor, our class mascot" padding: 3px 3px 0px 3px;”></p>
+    <p>In 2024, it can feel like Artificial Intelligence is all anyone is talking about, from the university to the news to our social media feeds. The release of ChatGPT in particular has sparked fears about how students will use or abuse AI writing tools in classes, and how professionals should apply these same tools in their work. "Writing with Robots" addresses these controversies directly, first by introducing students to the long history of humans seeking to automate—or at least simulate—intelligence and creativity. We will study historical automata and automated writing technologies, discussing how technology and writing have mutually influenced each other over centuries, and how artists and writers have by turns adopted, adapted, and resisted such technologies. We will read speculative fiction that probes the boundaries of human, non-human, and mechanical intelligence, considering how such literature might inform current debates. Finally, we will learn about and experiment with contemporary AI tools, seeking to understand their affordances and limitations and to construct a framework for productive, creative, and ethical engagements with this newest medium of automated writing.</p>
+</div> 
 
 permalink: /:slug
 
