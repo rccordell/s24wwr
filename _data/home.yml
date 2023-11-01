@@ -45,10 +45,14 @@ old_project_entries:
   - title: Automated Writing
     url: https://hackmd.io/lcY0C1mYQhy37R1QAwpxMQ?view
     desc: Annette Vee, "Automating Writing from Amanuenses to AI," University of Pittsburgh, Fall 2021
+    
+  - title: Data & the Human
+    url: https://hcommons.org/deposits/item/hc:53507/
+    desc: Paul Fyfe, "Data and the Human," North Carolina State University, Fall 2022
 
   - title: TextGenEd
     url: https://doi.org/10.37514/TWR-J.2023.1.1.02
-    desc: Tim Laquintano, Carly Schnitzler, and Annette Vee, _TextGenEd - Teaching with Text Generation Technologies_ (2023)
+    desc: Tim Laquintano, Carly Schnitzler, and Annette Vee, <em>TextGenEd - Teaching with Text Generation Technologies</em> (2023)
 
   - title: AI & Writing
     url: https://aiandwriting.hcommons.org/
