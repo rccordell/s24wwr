@@ -1,3 +1,8 @@
+---
+layout: post
+title: Schedule
+---
+
 Tuesday, January 16
 Thursday, January 18
 Tuesday, January 23

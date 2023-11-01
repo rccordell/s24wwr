@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Collaborative AI Paper
 ---
 
 This is an example page!

@@ -1,67 +1,66 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Canvas site
+    url: 
 
-  - title: blog
+  - title: Updates
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Email Prof. Cordell
+    url: mailto:rcordell@illinois.edu
+
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Policies
+    url: syllabus/policies
+    desc: Outlines expectations for participation & conduct in the course
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Assessment & Grading
+    url: syllabus/assessment
+    desc: Describes how students' work will be evaluated
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
+  - title: Schedule
+    url: syllabus/schedule
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Weekly Assignments
+    url: syllabus/assignments/weekly
+    desc: Smaller assignments such as course prep and weekly reflections
+    highlight: Assignment
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Collaborative AI Paper
+    url: syllabus/assignments/aipaper
+    desc: Major assignments #1, a literary-historical paper written collaboratively with a generative AI engine.
+    highlight: Assignment
+
+  - title: Critical-creative Project
+    url: syllabus/assignments/creative-critical
+    desc: An "unessay" project in which you will create an artifact that both employs and comment critically on generative AI
+    highlight: Assignment
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Future Text
+    url: https://github.com/quinnanya/future-text
+    desc: Quinn Dombrowski, "Future Text: AI and Literatures, Cultures, and Languages," Stanford University, Autumn 2023
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Automated Writing
+    url: https://hackmd.io/lcY0C1mYQhy37R1QAwpxMQ?view
+    desc: Annette Vee, "Automating Writing from Amanuenses to AI," University of Pittsburgh, Fall 2021
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: TextGenEd
+    url: https://doi.org/10.37514/TWR-J.2023.1.1.02
+    desc: Tim Laquintano, Carly Schnitzler, and Annette Vee, _TextGenEd: Teaching with Text Generation Technologies_ (2023)
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: AI & Writing
+    url: https://aiandwriting.hcommons.org/
+    desc: MLA-CCCC Joint Task Force on Writing and AI working paper, quick guide, and resources
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Prof. Cordell's homepage
+    url: https://ryancordell.org/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
+  - title: UIUC English
+    url: https://english.illinois.edu/
 
   - title: feed
     url: feed.xml
