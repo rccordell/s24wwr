@@ -24,17 +24,17 @@ project_entries:
 
   - title: Weekly Assignments
     url: syllabus/assignments/weekly
-    desc: Smaller assignments such as course prep and weekly reflections
+    desc: Smaller, ongoing assignments such as course prep and weekly reflections
     highlight: Assignment
 
-  - title: Collaborative AI Paper
+  - title: AI Paper Audit
     url: syllabus/assignments/aipaper
-    desc: Major assignments #1, a literary-historical paper written collaboratively with a generative AI engine.
+    desc: Students evaluate the output of an AI-generated paper for quality, persuasiveness, and reliability.
     highlight: Assignment
 
   - title: Unessay Project
     url: syllabus/assignments/unessay
-    desc: An project that engages critically and creatively with generative AI
+    desc: A student-designed project that engages critically and creatively with generative AI
     highlight: Assignment
 
 old_project_entries:
