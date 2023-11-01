@@ -21,7 +21,6 @@ project_entries:
   - title: Schedule
     url: syllabus/schedule
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
 
   - title: Weekly Assignments
     url: syllabus/assignments/weekly
@@ -33,9 +32,9 @@ project_entries:
     desc: Major assignments #1, a literary-historical paper written collaboratively with a generative AI engine.
     highlight: Assignment
 
-  - title: Critical-creative Project
-    url: syllabus/assignments/creative-critical
-    desc: An unessay project that engages critically and creatively with generative AI
+  - title: Unessay Project
+    url: syllabus/assignments/unessay
+    desc: An project that engages critically and creatively with generative AI
     highlight: Assignment
 
 old_project_entries:
