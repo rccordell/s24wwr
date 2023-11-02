@@ -22,9 +22,9 @@ project_entries:
     url: syllabus/schedule
     desc: This project uses highlight markup, configured in _data/home.yml
 
-  - title: Weekly Assignments
-    url: syllabus/assignments/weekly
-    desc: Smaller, ongoing assignments such as course prep and weekly reflections
+  - title: Ongoing Assignments
+    url: syllabus/assignments/ongoing
+    desc: Regular, lower-stakes assignments such as course prep, in-class work, and critical reflections
     highlight: Assignment
 
   - title: AI Paper Audit
