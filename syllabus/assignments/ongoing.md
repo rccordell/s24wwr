@@ -5,7 +5,9 @@ title: Ongoing Assignments
 
 The assignments below are regular, low-stakes assignments you should expect to complete throughout the semester, in accordance with [your grading contract](syllabus/assessment). 
 
-# Discussion Prep
+---
+
+# Assignment 1: Discussion Prep
 
 ## Assignment Overview
 
@@ -27,7 +29,9 @@ These responses will serve as prompts for our conversations together and demonst
 
 Discussion prep will be deemed “Unsatisfactory” when it indicates lack of preparation or inattentive reading, and will have consequences as outlined in your grading contract.
 
-# Critical Reflections
+---
+
+# Assignment 2: Critical Reflections
 
 ## Assignment Overview
 
@@ -47,7 +51,8 @@ Your critical reflections should aim for more substance and detail than your cla
 
 This is a challenging and full class. To give you some flexibility, you may choose to forgo responding to reflective prompts a few times during the semester, in line with your chosen grading contract. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. It’s generally much easier, in other words, to respond to all the prompts early in the semester, so you can ignore the last ones, rather than putting yourself in a situation where you can only fulfill your contract by responding to every prompt remaining (or are having to write me requesting to submit late work).
 
+---
 
-# In-class Work
+# Assignment 3: In-class Work
 
 "Writing with Robots" will include regular activities, both individual and collaborative, that ask you to engage with our assigned media or experiment with specific technologies. The output of these activities will vary, but sometimes you will be asked to submit a brief written report or reflection, or another artifact, demonstrating your thinking.
