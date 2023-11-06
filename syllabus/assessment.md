@@ -41,10 +41,10 @@ In addition to the items in "All Contracts" above, to contract for an "A" in thi
 
 1. Miss no more than two classes, inclusive of workshop sessions.
 2. Take no more than one information overload day during the semester. 
-3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](policies/)
-4. Prepare for and participate in [In-class assignments and workshops](assignments/in-class) with enthusiasm 
+3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](policies)
+4. Prepare for and participate in [In-class assignments and workshops](assignments/inclass) with enthusiasm 
 5. Submit all [discussion preparation assignments](assignments/discussion-prep) except for one
-6. Complete five of six [Critical Reflections](assignments/critical-reflections/)
+6. Complete five of six [Critical Reflections](assignments/criticalreflections/)
 7. Complete an exemplary [Unessay Project](assignments/unessay), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
@@ -54,8 +54,8 @@ In addition to the items in "All Contracts" above,  to contract for an "B" in th
 1. Miss no more than three classes, inclusive of workshop sessions.
 2. Take no more than one information overload day during the semester. 
 3. Fully meet expectations regarding in-class device according to the [policies outlined in the device use rubric](policies)
-4. Prepare for and participate in [In-class assignments and workshops](assignments/in-class) with enthusiasm 
-5. Submit all [discussion preparation assignments](assignments/discussion-prep) except for two
+4. Prepare for and participate in [In-class assignments and workshops](assignments/inclass) with enthusiasm 
+5. Submit all [discussion preparation assignments](assignments/discussionprep) except for two
 6. Complete four of six [Critical Reflections](assignments/critical-reflections/)
 7. Complete an satisfactory [Unessay Project](assignments/unessay), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
@@ -66,9 +66,9 @@ In addition to the items in "All Contracts" above, to contract for an "C" in thi
 1. Miss no more than four classes, inclusive of workshop sessions.
 2. Take no more than two information overload days during the semester. 
 3. Generally meet expectations regarding in-class device according to the [policies outlined in the device use rubric](policies)
-4. Participate in [In-class assignments and workshops](assignments/in-class)
+4. Participate in [In-class assignments and workshops](assignments/inclass)
 5. Submit all [discussion preparation assignments](assignments/discussion-prep) except for two
-6. Complete three of six [Critical Reflections](assignments/critical-reflections/)
+6. Complete three of six [Critical Reflections](assignments/criticalreflections/)
 7. Complete an satisfactory [Unessay Project](assignments/unessay), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "D" and "F" Grades
