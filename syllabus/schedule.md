@@ -124,6 +124,7 @@ Then choose 1 of the following to read closely and discuss in class:
 While ChatGPT (a.k.a. GPT-4) has been the primary newsmaker over the past year or so, many other models—including some interesting domain-specific ones—have been developed. Today we'll explore how distinct models represent language differently, and how that changes what we can learn with and from those models. We will look at (at least) these:
 
 + [MonadGPT](https://huggingface.co/Pclanglais/MonadGPT?text=Hey+my+name+is+Clara%21+How+are+you%3F), a model trained on 17th-century texts
++ [Epstein](https://huggingface.co/Pclanglais/Epstein) & [Brahe](https://huggingface.co/Pclanglais/Brahe), trained on English Literature
 + [AI Dungeon](https://aidungeon.com/), a model trained on RPG & related text
 + [NovelAI](https://novelai.net/), a model trained on fiction, with "modules" that emulate particular genres/authors/etc.
 + [Grok](https://grok.x.ai/), a model by X (formerly Twitter) trained on social media data and emulating the tone of _Hitchhiker's Guide to the Galaxy_ 
