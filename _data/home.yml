@@ -25,27 +25,27 @@ project_entries:
   - title: Discussion Prep
     url: syllabus/assignments/discussionprep
     desc: Short observations or questions about our course media, prepared ahead of class.
-    highlight: Ongoing Assignment
+    highlight: <br />Ongoing Assignment
     
   - title: In-Class Work
     url: syllabus/assignments/inclass
     desc: Low-stakes, usually ungraded individual or group work during class time.
-    highlight: Ongoing Assignment
+    highlight: <br />Ongoing Assignment
     
   - title: Critical Reflections
     url: syllabus/assignments/criticalreflections
     desc: Short analytical prose in response to regularly-posted prompts.
-    highlight: Ongoing Assignment
+    highlight: <br />Ongoing Assignment
 
   - title: AI Paper Audit
     url: syllabus/assignments/aipaper
     desc: Students evaluate the output of an AI-generated paper for quality, persuasiveness, and reliability.
-    highlight: Major Assignment
+    highlight: <br />Major Assignment
 
   - title: Unessay Project
     url: syllabus/assignments/unessay
     desc: A student-designed project that engages critically and creatively with generative AI
-    highlight: Major Assignment
+    highlight: <br />Major Assignment
 
 old_project_entries:
   - title: Future Text
