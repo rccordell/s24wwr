@@ -23,17 +23,17 @@ project_entries:
     desc: This project uses highlight markup, configured in _data/home.yml
 
   - title: Discussion Prep
-    url: syllabus/assignments/discussion-prep
+    url: syllabus/assignments/discussionprep
     desc: Short observations or questions about our course media, prepared ahead of class.
     highlight: Assignment
     
-    - title: In-Class Work
-    url: syllabus/assignments/in-class
+  - title: In-Class Work
+    url: syllabus/assignments/inclass
     desc: Low-stakes, usually ungraded individual or group work during class time.
     highlight: Assignment
     
-    - title: Critical Reflections
-    url: syllabus/assignments/critical-reflections
+  - title: Critical Reflections
+    url: syllabus/assignments/criticalreflections
     desc: Short analytical prose in response to regularly-posted prompts.
     highlight: Assignment
 
