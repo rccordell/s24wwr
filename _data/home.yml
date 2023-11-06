@@ -12,40 +12,40 @@ navbar_entries:
 project_entries:
   - title: Policies
     url: syllabus/policies
-    desc: Outlines expectations for participation & conduct in the course
+    desc: Our expectations for participation & conduct in the course.
 
   - title: Assessment & Grading
     url: syllabus/assessment
-    desc: Describes how students' work will be evaluated
+    desc: How will students' work be evaluated?
 
   - title: Schedule
     url: syllabus/schedule
-    desc: What we will do and when
+    desc: What we will do and when we will do it.
 
   - title: Discussion Prep
     url: syllabus/assignments/discussionprep
-    desc: Short observations or questions about our course media, prepared ahead of class.
-    highlight: <br />Ongoing Assignment
+    desc: Short observations or questions about our course media, prepared ahead of class.<br />
+    highlight: Ongoing Assignment
     
   - title: In-Class Work
     url: syllabus/assignments/inclass
-    desc: Low-stakes, usually ungraded individual or group work during class time.
-    highlight: <br />Ongoing Assignment
+    desc: Low-stakes, usually ungraded individual or group work during class time.<br />
+    highlight: Ongoing Assignment
     
   - title: Critical Reflections
     url: syllabus/assignments/criticalreflections
-    desc: Short analytical prose in response to regularly-posted prompts.
-    highlight: <br />Ongoing Assignment
+    desc: Short analytical prose in response to regularly-posted prompts.<br />
+    highlight: Ongoing Assignment
 
   - title: AI Paper Audit
     url: syllabus/assignments/aipaper
-    desc: Students evaluate the output of an AI-generated paper for quality, persuasiveness, and reliability.
-    highlight: <br />Major Assignment
+    desc: Students evaluate the output of an AI-generated paper for quality, persuasiveness, and reliability.<br />
+    highlight: Major Assignment
 
   - title: Unessay Project
     url: syllabus/assignments/unessay
-    desc: A student-designed project that engages critically and creatively with generative AI
-    highlight: <br />Major Assignment
+    desc: A student-designed project that engages critically and creatively with generative AI.<br />
+    highlight: Major Assignment
 
 old_project_entries:
   - title: Future Text
