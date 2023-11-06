@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Collaborative AI Paper
+title: Collaborative AI Paper & Audit
 ---
 
 ## Assignment Overview
 
 + Students will use AI to generate a typical 5-paragraph essay about one of our course's literary-historical topics and annotate it for quality, persuasiveness, and reliability
 + Students work individually but workshop collaboratively
-+ AI paper due by TBA; annotated version due by TBA
++ AI paper due no later than February 9; annotated version due no later than February 16
 
 
 ## Details

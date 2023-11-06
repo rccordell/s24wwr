@@ -22,9 +22,19 @@ project_entries:
     url: syllabus/schedule
     desc: This project uses highlight markup, configured in _data/home.yml
 
-  - title: Ongoing Assignments
-    url: syllabus/assignments/ongoing
-    desc: Regular, lower-stakes assignments such as course prep, in-class work, and critical reflections
+  - title: Discussion Prep
+    url: syllabus/assignments/discussion-prep
+    desc: Short observations or questions about our course media, prepared ahead of class.
+    highlight: Assignment
+    
+    - title: In-Class Work
+    url: syllabus/assignments/in-class
+    desc: Low-stakes, usually ungraded individual or group work during class time.
+    highlight: Assignment
+    
+    - title: Critical Reflections
+    url: syllabus/assignments/critical-reflections
+    desc: Short analytical prose in response to regularly-posted prompts.
     highlight: Assignment
 
   - title: AI Paper Audit
